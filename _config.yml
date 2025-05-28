@@ -23,7 +23,7 @@ title: WISE Docs
 description: >- # this means to ignore newlines until "baseurl:"
   This site contains documentation for WISE users, server administrators and developers
 domain: wise-community.github.io
-baseurl: '' # the subpath of your site, e.g. /blog
+#baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://wise-community.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: WISETELS
 github_username: WISE-Community
