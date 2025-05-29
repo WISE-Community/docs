@@ -26,4 +26,4 @@ Welcome to the WISE Docs page! This site contains documentation for WISE users, 
 
 # WISE Community
 
-[The WISE Community](https://wise-discuss.berkeley.edu) is a friendly forum where WISE users from around the world can post updates, ask questions and suggest new ideas. Come check it out!
+[The WISE Community](https://wise-discuss.berkeley.edu) is a friendly forum where WISE users from around the world can post updates, ask questions and suggest new ideas. Please come and join us!
