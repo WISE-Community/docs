@@ -12,6 +12,7 @@ Welcome to the WISE Docs page! This site contains documentation for WISE users, 
 - Features
   - [Multilingual unit](user/feature/multilingual-unit)
   - [Publish units](user/feature/publish-unit/)
+  - [AI Essay Assistant](https://docs.google.com/document/d/18i3w5v8r5TjxvwwjXNqMDiQHz1T0gfYPQPTvbH_CXAs/edit?tab=t.0)
 
 # Server administrator guides
 
