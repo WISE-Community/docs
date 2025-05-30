@@ -6,7 +6,7 @@ layout: home
 title: WISE Docs Home
 ---
 
-Welcome to the WISE Docs page! This site contains documentation for WISE users, server administrators and developers.
+Welcome to the WISE Docs page! Here, you can find information for WISE users, server administrators and developers.
 
 # User guides
 
