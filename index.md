@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: WISE Docs Home
 ---
 
 Welcome to the WISE Docs page! This site contains documentation for WISE users, server administrators and developers.
@@ -24,6 +25,6 @@ Welcome to the WISE Docs page! This site contains documentation for WISE users, 
 
 - [Set up WISE for local development](developer/setup-local-development-environment)
 
-# WISE Community
+# WISE community
 
-[The WISE Community](https://wise-discuss.berkeley.edu) is a friendly forum where WISE users from around the world can post updates, ask questions and suggest new ideas. Please come and join us!
+[WISE community](https://wise-discuss.berkeley.edu) is a friendly forum where WISE users from around the world can post updates, ask questions and suggest new ideas. Please come and join us!

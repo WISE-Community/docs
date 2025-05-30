@@ -1,5 +1,7 @@
 ---
 title: Multilingual unit
+layout: page
+date: 2025-05-30 09:00 -0700
 ---
 
 - [Introduction](#introduction)

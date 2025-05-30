@@ -1,5 +1,7 @@
 ---
-title: Setup local development environment
+title: Install WISE server with Docker
+layout: page
+date: 2025-05-28 09:00 -0700
 ---
 
 - [Introduction](#introduction)
