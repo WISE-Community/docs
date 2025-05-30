@@ -6,7 +6,7 @@ layout: home
 title: WISE Docs Home
 ---
 
-Welcome to the WISE Docs page! Here, you can find information for WISE users, server administrators and developers.
+Welcome to the WISE Docs page! Here you can find guides for WISE users, server administrators and developers.
 
 # User guides
 
@@ -25,6 +25,7 @@ Welcome to the WISE Docs page! Here, you can find information for WISE users, se
 
 - [Set up WISE for local development](developer/setup-local-development-environment)
 - Debugging
+  - [Debugging WISE-API](developer/debugging-wise-api/)
   - [Debugging WISE-Client unit tests](developer/debugging-wise-client-unit-tests/)
 
 # WISE community
