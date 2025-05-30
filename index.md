@@ -24,6 +24,8 @@ Welcome to the WISE Docs page! This site contains documentation for WISE users, 
 # Developer guides
 
 - [Set up WISE for local development](developer/setup-local-development-environment)
+- Debugging
+  - [Debugging WISE-Client unit tests](developer/debugging-wise-client-unit-tests/)
 
 # WISE community
 
