@@ -8,28 +8,9 @@ title: WISE Docs Home
 
 Welcome to the WISE Docs page! Here you can find guides for WISE users, server admins and developers.
 
-# User guides
-
-- Features
-  - [Multilingual unit](user/feature/multilingual-unit)
-  - [Publish units](user/feature/publish-unit/)
-  - [AI Essay Assistant](https://docs.google.com/document/d/18i3w5v8r5TjxvwwjXNqMDiQHz1T0gfYPQPTvbH_CXAs/edit?tab=t.0)
-
-# Admin guides
-
-- How to set up WISE on a production server
-  - [Using Docker](admin/install-production-server-docker/) (recommended)
-  - [Using Tomcat](admin/install-production-server-tomcat/)
-- [Transfer units between instances](admin/transfer-units/)
-- [Enable AI Chat feature](admin/enable-ai-chat-feature/)
-- [Enable Speech-to-Text transcription in units](admin/enable-speech-to-text-transcription/)
-
-# Developer guides
-
-- [Set up WISE for local development](developer/setup-local-development-environment)
-- Debugging
-  - [Debugging WISE-API](developer/debugging-wise-api/)
-  - [Debugging WISE-Client unit tests](developer/debugging-wise-client-unit-tests/)
+- [User guide](user/)
+- [Admin guide](admin/)
+- [Developer guide](developer/)
 
 # WISE community
 
