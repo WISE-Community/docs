@@ -6,7 +6,7 @@ layout: home
 title: WISE Docs Home
 ---
 
-Welcome to the WISE Docs page! Here you can find guides for WISE users, server administrators and developers.
+Welcome to the WISE Docs page! Here you can find guides for WISE users, server admins and developers.
 
 # User guides
 
@@ -15,13 +15,13 @@ Welcome to the WISE Docs page! Here you can find guides for WISE users, server a
   - [Publish units](user/feature/publish-unit/)
   - [AI Essay Assistant](https://docs.google.com/document/d/18i3w5v8r5TjxvwwjXNqMDiQHz1T0gfYPQPTvbH_CXAs/edit?tab=t.0)
 
-# Server administrator guides
+# Admin guides
 
 - How to set up WISE on a production server
-  - [Using Docker](server-admin/install-production-server-docker/) (recommended)
-  - [Using Tomcat](server-admin/install-production-server-tomcat/)
-- [Transfer units between instances](server-admin/transfer-units/)
-- [Enable Speech-to-Text transcription in units](server-admin/enable-speech-to-text-transcription/)
+  - [Using Docker](admin/install-production-server-docker/) (recommended)
+  - [Using Tomcat](admin/install-production-server-tomcat/)
+- [Transfer units between instances](admin/transfer-units/)
+- [Enable Speech-to-Text transcription in units](admin/enable-speech-to-text-transcription/)
 
 # Developer guides
 
