@@ -21,6 +21,7 @@ Welcome to the WISE Docs page! Here you can find guides for WISE users, server a
   - [Using Docker](server-admin/install-production-server-docker/) (recommended)
   - [Using Tomcat](server-admin/install-production-server-tomcat/)
 - [Transfer units between instances](server-admin/transfer-units/)
+- [Enable Speech-to-Text transcription in units](server-admin/enable-speech-to-text-transcription/)
 
 # Developer guides
 
