@@ -20,6 +20,7 @@ Welcome to the WISE Docs page! Here you can find guides for WISE users, server a
 - How to set up WISE on a production server
   - [Using Docker](server-admin/docker-production-server) (recommended)
   - [Without using Docker](server-admin/install-production-server)
+- [Transfer units between instances](server-admin/transfer-units/)
 
 # Developer guides
 
