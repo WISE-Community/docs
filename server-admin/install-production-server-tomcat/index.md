@@ -1,10 +1,11 @@
 ---
-title: Install WISE server
+title: Install WISE server with Tomcat
 layout: page
-date: 2025-05-28 09:00 -0700
+date: 2021-02-17 09:00 -0700
+updated_date: 2025-06-04 09:00 -0700
 ---
 
-This page contains the instructions on how to install WISE on your production server. These specific instructions are for installing WISE onto an Ubuntu server, but WISE should work on other types of Linux servers too.
+This page contains the instructions on how to install WISE on your production server using Tomcat. These specific instructions are for installing WISE onto an Ubuntu server, but WISE should work on other types of Linux servers too.
 
 ## Update Ubuntu
 
