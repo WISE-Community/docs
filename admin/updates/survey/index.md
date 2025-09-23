@@ -2,11 +2,12 @@
 title: Updates required for the survey feature
 layout: page
 date: 2025-06-17 09:00 -0700
+updated_date: 2025-09-23 09:00 -0700
 ---
 
 ## Introduction
 
-Survey feature was introduced on June 6, 2025. It allows teachers to set up unit for use with anonymous users.
+Survey feature was introduced on June 6, 2025. It allows teachers to set up unit for use without asking participants to create student accounts. Surveys are meant for shorter units that can be completed in one session and are best for anonymous data collection. Participants can only submit their responses once and cannot continue working at a later time.
 
 ## Database changes
 
