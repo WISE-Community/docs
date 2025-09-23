@@ -2,15 +2,15 @@
 title: Install WISE server with Docker
 layout: page
 date: 2021-02-17 09:00 -0700
-updated_date: 2025-06-04 09:00 -0700
+updated_date: 2025-09-23 09:00 -0700
 ---
 
 - [Introduction](#introduction)
 - [Installation](#installation)
-- [Updating with new releases](#updating-with-new-releases)
 - [Troubleshooting](#troubleshooting)
 - [Properties configuration](#properties-configuration)
-- [Server architecture](#server-architecture)
+- [Updating with new releases](#updating-with-new-releases)
+- [Application architecture](#application-architecture)
   - [API (wise-api-server container)](#api-wise-api-server-container)
   - [Client (wise-client-server container)](#client-wise-client-server-container)
   - [MySQL (wise-mysql-server container)](#mysql-wise-mysql-server-container)
@@ -44,12 +44,6 @@ Minimum recommended server specifications:
 7. Open your browser and type in the address to your server. WISE should be running there with default users (be sure to change the password once you log in)
    - admin/pass
    - preview/wise
-
-# Updating with new releases
-
-1. Stop Docker containers `WISE-Docker-Server$ docker compose down`
-2. Pull changes `WISE-Docker-Server$ docker compose pull`
-3. Start Docker containers `WISE-Docker-Server$ docker compose up`
 
 # Troubleshooting
 
@@ -129,7 +123,16 @@ Setting this value will enable the AI Chat item that lets students chat with Cha
 OPENAI_API_KEY=
 ```
 
-# Server architecture
+# Updating with new releases
+
+1. Make necessary backups (database, curriculum, configuration files, etc.)
+2. Stop Docker containers `WISE-Docker-Server$ docker compose down`
+3. Get updates to Docker containers `WISE-Docker-Server$ docker compose pull`
+4. Get updates to Docker-Docker-Server project `WISE-Docker-Server$ git pull`
+5. Make any necessary updates to configuration files and databases
+6. Start Docker containers `WISE-Docker-Server$ docker compose up`
+
+# Application architecture
 
 ## API (wise-api-server container)
 
