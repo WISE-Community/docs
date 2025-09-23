@@ -9,5 +9,4 @@ title: WISE Administrator Guide
 - [Transfer units between instances](transfer-units/)
 - [Enable AI Chat feature](enable-ai-chat-feature/)
 - [Enable Speech-to-Text transcription in units](enable-speech-to-text-transcription/)
-- Updates
-  - [Survey feature (June 2025)](updates/survey)
+- [Application updates](updates/)

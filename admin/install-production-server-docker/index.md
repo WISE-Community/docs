@@ -127,9 +127,9 @@ OPENAI_API_KEY=
 
 1. Make necessary backups (database, curriculum, configuration files, etc.)
 2. Stop Docker containers `WISE-Docker-Server$ docker compose down`
-3. Get updates to Docker containers `WISE-Docker-Server$ docker compose pull`
-4. Get updates to Docker-Docker-Server project `WISE-Docker-Server$ git pull`
-5. Make any necessary updates to configuration files and databases
+3. Make any necessary updates to configuration files and databases ([reference](../updates))
+4. Get updates to Docker containers `WISE-Docker-Server$ docker compose pull`
+5. Get updates to Docker-Docker-Server project `WISE-Docker-Server$ git pull`
 6. Start Docker containers `WISE-Docker-Server$ docker compose up`
 
 # Application architecture
