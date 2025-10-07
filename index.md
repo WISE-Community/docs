@@ -8,9 +8,10 @@ title: WISE Docs Home
 
 Welcome to the WISE Docs page! Here you can find guides for WISE users, server admins and developers.
 
-- [User guide](user/)
-- [Admin guide](admin/)
-- [Developer guide](developer/)
+- [User guide](user)
+- [Researcher guide](researcher)
+- [Admin guide](admin)
+- [Developer guide](developer)
 
 # WISE community
 
