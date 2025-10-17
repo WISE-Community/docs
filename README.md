@@ -9,3 +9,5 @@ You can see the latest version of the docs [here](https://wise-community.github.
 ```
 bundle exec jekyll serve
 ```
+
+This should start a server listening at http://127.0.0.1:4000

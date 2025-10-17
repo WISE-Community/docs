@@ -10,6 +10,7 @@ Welcome to the WISE Docs page! Here you can find guides for WISE users, server a
 
 - [User guide](user)
 - [Researcher guide](researcher)
+- [Author guide](author)
 - [Admin guide](admin)
 - [Developer guide](developer)
 
