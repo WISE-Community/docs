@@ -6,10 +6,12 @@ date: 2025-10-16 09:00 -0700
 
 ## Introduction
 
-You can create a link from an HTML component to another step or a component in the same unit. This can be useful to move students to review previous page(s) of the unit, or let them choose to jump them forward in the unit.
+You can create a link from an HTML component to another step or a component in the same unit. This can be useful to move students to review previous content, or let them jump forward in the unit.
 
-![WISELink from step 1.1 to step 1.2](preview.png)
-_Link from step 1.1 to step 1.2_
+<video width="320" height="240" controls>
+  <source src="preview.mp4" type="video/mp4">
+</video>
+_Link from step 1.1 to step 1.2 (Multiple Choice component) and step 1.3 (Draw component). You can optionally link to a specific component in a step._
 
 ## Authoring
 
