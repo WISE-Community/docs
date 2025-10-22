@@ -9,4 +9,4 @@ Survey feature was introduced on June 6, 2025. It allows teachers to set up unit
 ![Use with class](use-with-class.png)
 _Use with class dialog with the Survey option selected._
 
-When a survey unit is created, WISE will generate a unique URL that can be sent to the users. The users can access the unit anonymously by accessing the URL.
+When a survey unit is created, WISE will generate a unique URL that can be sent to the users. The users can access the unit anonymously by visiting the URL in a browser.
