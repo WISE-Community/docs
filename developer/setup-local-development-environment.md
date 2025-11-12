@@ -2,12 +2,13 @@
 title: Setup local development environment
 layout: page
 date: 2025-05-28 09:00 -0700
+updated_date: 2025-11-12 09:00 -0700
 ---
 
 - [Introduction](#introduction)
 - [Requirements](#requirements)
 - [Setup](#setup)
-- [Additional resources](#additional-resources)
+- [Additional information](#additional-information)
 
 ## Introduction
 
@@ -64,14 +65,8 @@ wise-client  | ✔ Compiled successfully.
 
 That's it! Any changes that you make to the source code (on both WISE-API and WISE-Client) will be automatically compiled and deployed. Changes to WISE-Client will trigger an automatic reload in the browser.
 
-## Additional resources
+## Additional information
 
-Please head over to our [wiki page](https://github.com/WISE-Community/WISE-Docker-Dev/wiki) for additional documentation, like how to run the unit tests and commonly-used Docker commands.
+WISE is open source! The license is GNU General Public License, v3. Please see LICENSE.txt for details. If you would like to contribute code changes like new features or bug fixes, please see the [contributing page](contributing-changes).
 
-Open-source license: GNU General Public License, v3. See LICENSE.txt for details.
-
-To see WISE in action and for inquiry science curricula developed by the WISE research team at UC Berkeley, visit https://wise.berkeley.edu.
-
-Developer discussions: https://github.com/WISE-Community/WISE-Docker-Dev/discussions
-
-General WISE discussions: https://wise-discuss.berkeley.edu/
+To see WISE and curricula developed by the WISE research team at UC Berkeley, please visit [https://wise.berkeley.edu](https://wise.berkeley.edu).
