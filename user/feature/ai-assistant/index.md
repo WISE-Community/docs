@@ -18,7 +18,7 @@ _The AI Assistant is available in the sidebar and can be toggled on and off, and
 
 The assistant is globally available in the sidebar, so you can keep the conversation going as you work on the unit. You can start a new conversation or switch to an existing conversation.
 
-Your chats are automatically saved to your account. You don't need to worry about losing your progress or the assistant's previous explanations.
+Your chats are automatically saved to your account, so you don't need to worry about losing your progress or the assistant's previous explanations. When you send a message, it records the timestamp and the step that you were on.
 
 ### 2. Multiple Chat Sessions
 
@@ -43,7 +43,7 @@ It will also work on small screens like mobile devices.
 
 ### 5. Context Awareness (Planned for future release)
 
-The assistant knows which part of the curriculum you are currently working on. When you ask a question, it automatically considers your current step to provide more relevant and helpful guidance.
+In the future, the assistant will know which part of the curriculum you are currently working on. When you ask a question, it automatically considers your current step to provide more relevant and helpful guidance.
 
 ---
 
