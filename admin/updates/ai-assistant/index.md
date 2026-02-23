@@ -6,7 +6,9 @@ date: 2026-01-13 09:00 -0700
 
 ## Introduction
 
-AI Assistant feature was introduced on January 13, 2026. It is a persistent chatbot tool designed to help you navigate your curriculum, brainstorm ideas, and ask questions directly within the platform. You can read more about this feature [here](/user/feature/ai-assistant/).
+AI Assistant feature was introduced on January 13, 2026. It is a persistent chatbot tool designed to help you navigate your curriculum, brainstorm ideas, and ask questions directly within the platform. You can read more about this feature [here](../../../user/feature/ai-assistant/).
+
+This feature currently requires an AWSBedrock account to facilitate talking to an LLM. In the future, we will look into supporting OpenAI with API key access.
 
 ## Database changes
 
