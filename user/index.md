@@ -4,6 +4,7 @@ title: WISE User Guide
 ---
 
 - Features
+  - [Dynamic Activity](feature/dynamic-activity)
   - [Multilingual unit](feature/multilingual-unit)
   - [Survey unit](feature/survey-unit)
   - [Publish units](feature/publish-unit)
