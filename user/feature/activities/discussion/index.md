@@ -9,6 +9,9 @@ description: 'Learn about the Discussion activity and its features for students 
 
 The Discussion activity enables students to engage in collaborative conversations, share ideas, and respond to their classmates directly within the WISE platform.
 
+![Discussion Activity](teacher_discussion.png)
+_The teacher's view of the student discussion activity._
+
 ## Student Capabilities
 
 1. **Upload and Use Images:** Students can enrich their discussion posts by uploading and embedding images directly into their replies, making it easier to share diagrams, evidence, or visual examples.
