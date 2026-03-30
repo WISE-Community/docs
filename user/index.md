@@ -8,6 +8,7 @@ title: WISE User Guide
     - [Discussion](feature/activities/discussion)
     - [Draw](feature/activities/draw)
     - [Dynamic](feature/dynamic-activity)
+    - [Multiple Choice](feature/activities/multiple-choice)
   - [Multilingual unit](feature/multilingual-unit)
   - [Survey unit](feature/survey-unit)
   - [Publish units](feature/publish-unit)
