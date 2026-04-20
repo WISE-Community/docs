@@ -11,3 +11,4 @@ title: WISE Administrator Guide
 - [Enable AI Chat feature](enable-ai-chat-feature/)
 - [Enable Speech-to-Text transcription in units](enable-speech-to-text-transcription/)
 - [Application updates](updates/)
+- [Unit Recovery Mode](unit-recovery-mode/)
