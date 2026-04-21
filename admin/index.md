@@ -12,3 +12,4 @@ title: WISE Administrator Guide
 - [Enable Speech-to-Text transcription in units](enable-speech-to-text-transcription/)
 - [Application updates](updates/)
 - [Unit Recovery Mode](unit-recovery-mode/)
+- [Enable/Disable Users](disable-users/)
