@@ -13,3 +13,4 @@ title: WISE Administrator Guide
 - [Application updates](updates/)
 - [Unit Recovery Mode](unit-recovery-mode/)
 - [Enable/Disable Users](disable-users/)
+- [Batch Create Users](batch-create-users/)
