@@ -7,7 +7,10 @@ description: 'Learn how to use the dynamic activity feature in WISE.'
 
 # Introduction
 
-Dynamic Activity allows authors to dynamically show specific activities (step content) to students based upon different conditions. Previously, WISE authors would have had to create multiple different branches within the unit to display different content to different students. Now, authors can display different content to different students within a single step. We outline a couple examples here:
+Dynamic Activity allows authors to dynamically show specific activities (step content) to students based upon different conditions. Authors can display different content to different students within a single step.
+
+![Dynamic Activity](dynamic-activity.jpg)
+_The dynamic activity feature. Choosing "Apple" caused the view to show a different activity than if the user had chosen "Banana"._
 
 ## Dynamic Activities Based on Multiple Choice
 
