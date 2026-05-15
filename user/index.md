@@ -3,13 +3,13 @@ layout: home
 title: WISE User Guide
 ---
 
+- Activities
+  - [Discussion](activities/discussion)
+  - [Draw](activities/draw)
+  - [Multiple Choice](activities/multiple-choice)
 - Features
-  - [Activities](feature/activities)
-    - [Discussion](feature/activities/discussion)
-    - [Draw](feature/activities/draw)
-    - [Dynamic](feature/dynamic-activity)
-    - [Multiple Choice](feature/activities/multiple-choice)
   - [Bookmark Activity](feature/bookmark-activity)
+  - [Dynamic Activity](feature/dynamic-activity)
   - [Multilingual unit](feature/multilingual-unit)
   - [Survey unit](feature/survey-unit)
   - [Publish units](feature/publish-unit)
