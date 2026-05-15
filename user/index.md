@@ -7,6 +7,7 @@ title: WISE User Guide
   - [Discussion](activities/discussion)
   - [Draw](activities/draw)
   - [Multiple Choice](activities/multiple-choice)
+  - [Open Response](activities/open-response)
 - Features
   - [Bookmark Activity](feature/bookmark-activity)
   - [Dynamic Activity](feature/dynamic-activity)
