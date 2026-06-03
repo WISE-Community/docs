@@ -1,8 +1,7 @@
 ---
 title: Install WISE server with Docker
 layout: page
-date: 2021-02-17 09:00 -0700
-updated_date: 2025-09-23 09:00 -0700
+date: 2025-09-23 09:00 -0700
 ---
 
 - [Introduction](#introduction)

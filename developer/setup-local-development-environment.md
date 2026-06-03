@@ -1,8 +1,7 @@
 ---
 title: Setup local development environment
 layout: page
-date: 2025-05-28 09:00 -0700
-updated_date: 2025-11-12 09:00 -0700
+date: 2025-11-12 09:00 -0700
 ---
 
 - [Introduction](#introduction)
