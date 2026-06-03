@@ -1,13 +1,12 @@
 ---
 title: Application Updates
 layout: page
-date: 2025-06-17 09:00 -0700
-updated_date: 2025-09-23 09:00 -0700
+date: 2026-06-02 09:00 -0700
 ---
 
 ## Introduction
 
-This page contains updates to the application that require updates to the configuration files, database or both.
+This page contains updates to the application that require updates to the configuration files, database or both. Be sure to check the list of updates below to make the necessary updates to the `application.properties` file. Database migrations occur automatically when an updated application is restarted using the Flyway migration tool (the sql files are located in `WISE-API/src/main/resources/db/migration`).
 
 ## List of updates
 
