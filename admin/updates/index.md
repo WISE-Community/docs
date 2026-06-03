@@ -10,5 +10,6 @@ This page contains updates to the application that require updates to the config
 
 ## List of updates
 
+- [Automatic database migration using Flyway (June 2026)](automatic-db-migration)
 - [AI Assistant feature (January 2026)](ai-assistant)
 - [Survey feature (June 2025)](survey)
