@@ -20,3 +20,7 @@ A disabled user will no longer be able to sign in to WISE.
 # Re-enabling a User
 
 This page also lists all of the usernames that have been previously disabled. To re-enable the user account, click on the "Re-enable account" link next to the username.
+
+# Enabling or Disabling from the User Info Page
+
+Admins can also view the enabled/disabled status of a user directly on the User Info page, and use the button next to the status to disable or enable the user.
