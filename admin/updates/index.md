@@ -1,7 +1,7 @@
 ---
 title: Application Updates
 layout: page
-date: 2026-06-02 09:00 -0700
+date: 2026-09-08 10:00 -0700
 ---
 
 ## Introduction
@@ -10,6 +10,7 @@ This page contains updates to the application that require updates to the config
 
 ## List of updates
 
+- [SpringBoot 3 upgrade (September 2026)](spring-boot-3)
 - [Automatic database migration using Flyway (June 2026)](automatic-db-migration)
 - [AI Assistant feature (January 2026)](ai-assistant)
 - [Survey feature (June 2025)](survey)

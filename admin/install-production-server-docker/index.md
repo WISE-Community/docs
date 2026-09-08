@@ -82,24 +82,27 @@ uber_admin=
 portalemailaddress=
 ```
 
-Setting these values will enable users to sign in with a Google account. It also allows users to integrate WISE with Google Classroom. You will need to generate your own Google client id and client secret by following the directions [here](https://developers.google.com/identity/sign-in/web/sign-in).
+Setting these values will enable users to sign in with a Google account. It also allows users to integrate WISE with Google Classroom. You will need to generate your own Google client id and client secret by following the directions [here](https://developers.google.com/identity/sign-in/web/sign-in). You will also need to add `https://<your-domain>/login/oauth2/code/google` as an authorized redirect URI in the Google Cloud Console.
 
 ```
-google.clientId=
-google.clientSecret=
-google.redirectUri=
+spring.security.oauth2.client.registration.google.client-id=
+spring.security.oauth2.client.registration.google.client-secret=
+spring.security.oauth2.client.registration.google.scope=openid,email,profile
 ```
 
 Setting these values will enable users to sign in with a Microsoft account. You will need to generate your own Microsoft values using the instructions [here](https://learn.microsoft.com/en-us/azure/developer/java/spring-framework/configure-spring-boot-starter-java-app-with-azure-active-directory).
 
 ```
-microsoft.accessTokenUri=
-microsoft.clientId=
-microsoft.clientSecret=
-microsoft.issuer=
-microsoft.jwkUrl=
-microsoft.userAuthorizationUri=
-microsoft.redirectUri=
+spring.security.oauth2.client.registration.microsoft.client-id=
+spring.security.oauth2.client.registration.microsoft.client-secret=
+spring.security.oauth2.client.registration.microsoft.scope=openid,email,profile
+spring.security.oauth2.client.registration.microsoft.client-name=Microsoft
+spring.security.oauth2.client.registration.microsoft.authorization-grant-type=authorization_code
+spring.security.oauth2.client.registration.microsoft.redirect-uri={baseUrl}/login/oauth2/code/{registrationId}
+spring.security.oauth2.client.provider.microsoft.authorization-uri=https://login.microsoftonline.com/common/oauth2/v2.0/authorize
+spring.security.oauth2.client.provider.microsoft.token-uri=https://login.microsoftonline.com/common/oauth2/v2.0/token
+spring.security.oauth2.client.provider.microsoft.jwk-set-uri=https://login.microsoftonline.com/common/discovery/v2.0/keys
+spring.security.oauth2.client.provider.microsoft.user-name-attribute=sub
 ```
 
 Setting these values will enable the Discourse forum where users can post messages. You will need to start up your own Discourse server and obtain the values from it using the instructions [here](https://github.com/discourse/discourse/blob/main/docs/INSTALL.md).
